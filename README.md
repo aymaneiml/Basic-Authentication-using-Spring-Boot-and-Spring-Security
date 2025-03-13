@@ -1,0 +1,2 @@
+# Basic-Authentication-using-Spring-Boot-and-Spring-Security
+This project demonstrates how to implement Basic Authentication using Spring Boot 3 and Spring Security. It secures endpoints with in-memory authentication, allowing users to log in with predefined credentials. The application restricts access to authenticated users and provides a secured API endpoint (/greeting) that returns a personalized welcome message.
